@@ -7,3 +7,4 @@ langchain
 beautifulsoup4
 youtube-transcript-api
 pytube
+ragatouille
